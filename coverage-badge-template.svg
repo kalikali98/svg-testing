@@ -1,48 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 215">
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 188">
   <defs>
     <style>
       .b {
-        font-family: Inter-SemiBold, Inter;
+        font-family: Roboto-Medium, Roboto;
         font-size: 16px;
-        font-variation-settings: 'opsz' 14, 'wght' 600;
-        font-weight: 600;
+        font-weight: 500;
       }
 
       .b, .c {
         isolation: isolate;
       }
 
-      .d {
-        stroke-width: .51px;
+      .c {
+        font-family: Roboto-Regular, Roboto;
+        font-size: 12px;
       }
 
-      .d, .e {
-        fill: none;
-        stroke: #000;
-        stroke-miterlimit: 10;
+      .d {
+        letter-spacing: 0em;
       }
 
       .e {
-        stroke-width: .5px;
+        letter-spacing: 0em;
       }
 
       .f {
-        opacity: .35;
-      }
-
-      .c {
-        font-family: Inter-Regular, Inter;
-        font-size: 12px;
-        font-variation-settings: 'opsz' 14, 'wght' 400;
+        letter-spacing: 0em;
       }
 
       .g {
-        letter-spacing: -.02em;
+        letter-spacing: 0em;
       }
 
       .h {
-        letter-spacing: -.02em;
+        letter-spacing: 0em;
       }
 
       .i {
@@ -50,7 +42,7 @@
       }
 
       .j {
-        letter-spacing: .02em;
+        letter-spacing: 0em;
       }
 
       .k {
@@ -60,43 +52,252 @@
       .l {
         letter-spacing: 0em;
       }
+
+      .m {
+        letter-spacing: 0em;
+      }
+
+      .n {
+        stroke-width: .5px;
+      }
+
+      .n, .o {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .o {
+        stroke-width: .49px;
+      }
+
+      .p {
+        opacity: .3;
+      }
+
+      .q {
+        letter-spacing: -.02em;
+      }
+
+      .r {
+        letter-spacing: -.02em;
+      }
+
+      .s {
+        letter-spacing: -.02em;
+      }
+
+      .t {
+        letter-spacing: -.02em;
+      }
+
+      .u {
+        letter-spacing: 0em;
+      }
+
+      .v {
+        letter-spacing: 0em;
+      }
+
+      .w {
+        letter-spacing: 0em;
+      }
+
+      .x {
+        letter-spacing: 0em;
+      }
+
+      .y {
+        letter-spacing: 0em;
+      }
+
+      .z {
+        letter-spacing: 0em;
+      }
+
+      .aa {
+        letter-spacing: 0em;
+      }
+
+      .ab {
+        letter-spacing: 0em;
+      }
+
+      .ac {
+        letter-spacing: 0em;
+      }
+
+      .ad {
+        letter-spacing: 0em;
+      }
+
+      .ae {
+        letter-spacing: -.01em;
+      }
+
+      .af {
+        letter-spacing: -.01em;
+      }
+
+      .ag {
+        letter-spacing: 0em;
+      }
+
+      .ah {
+        letter-spacing: 0em;
+      }
+
+      .ai {
+        letter-spacing: 0em;
+      }
+
+      .aj {
+        letter-spacing: 0em;
+      }
+
+      .ak {
+        letter-spacing: 0em;
+      }
+
+      .al {
+        letter-spacing: 0em;
+      }
+
+      .am {
+        letter-spacing: 0em;
+      }
+
+      .an {
+        letter-spacing: 0em;
+      }
+
+      .ao {
+        letter-spacing: 0em;
+      }
+
+      .ap {
+        letter-spacing: 0em;
+      }
+
+      .aq {
+        letter-spacing: 0em;
+      }
+
+      .ar {
+        letter-spacing: 0em;
+      }
+
+      .as {
+        letter-spacing: 0em;
+      }
+
+      .at {
+        letter-spacing: 0em;
+      }
+
+      .au {
+        letter-spacing: 0em;
+      }
+
+      .av {
+        letter-spacing: 0em;
+      }
+
+      .aw {
+        letter-spacing: 0em;
+      }
+
+      .ax {
+        letter-spacing: 0em;
+      }
+
+      .ay {
+        letter-spacing: 0em;
+      }
+
+      .az {
+        letter-spacing: .02em;
+      }
+
+      .ba {
+        letter-spacing: .02em;
+      }
+
+      .bb {
+        letter-spacing: .03em;
+      }
+
+      .bc {
+        letter-spacing: .03em;
+      }
+
+      .bd {
+        letter-spacing: 0em;
+      }
+
+      .be {
+        letter-spacing: 0em;
+      }
+
+      .bf {
+        letter-spacing: 0em;
+      }
+
+      .bg {
+        letter-spacing: 0em;
+      }
+
+      .bh {
+        letter-spacing: 0em;
+      }
+
+      .bi {
+        letter-spacing: 0em;
+      }
+
+      .bj {
+        letter-spacing: 0em;
+      }
+
+      .bk {
+        letter-spacing: .01em;
+      }
+
+      .bl {
+        letter-spacing: 0em;
+      }
     </style>
   </defs>
-  <text class="c" transform="translate(28.5 27.43)"><tspan x="0" y="0">Quali</tspan><tspan class="j" x="28.82" y="0">t</tspan><tspan x="32.98" y="0">y Ga</tspan><tspan class="i" x="58.79" y="0">t</tspan><tspan x="62.6" y="0">e S</tspan><tspan class="k" x="80.67" y="0">t</tspan><tspan x="84.66" y="0">atus</tspan></text>
-  <text class="c" transform="translate(192.5 27.43)"><tspan x="0" y="0">C</tspan><tspan class="h" x="8.77" y="0">ov</tspan><tspan x="22.24" y="0">erage</tspan></text>
-  <text class="b" transform="translate(192.5 52.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="c" transform="translate(356.5 27.43)"><tspan x="0" y="0">Lines of Code</tspan></text>
-  <text class="c" transform="translate(28.5 165.43)"><tspan x="0" y="0">Cogniti</tspan><tspan class="h" x="40.15" y="0">v</tspan><tspan x="46.66" y="0">e Compl</tspan><tspan class="g" x="93.76" y="0">e</tspan><tspan x="100.48" y="0">xi</tspan><tspan class="j" x="109.94" y="0">t</tspan><tspan x="114.1" y="0">y</tspan></text>
-  <text class="c" transform="translate(192.5 165.43)"><tspan x="0" y="0">Dupli</tspan><tspan class="l" x="28.92" y="0">c</tspan><tspan x="35.89" y="0">a</tspan><tspan class="i" x="42.63" y="0">t</tspan><tspan x="46.44" y="0">ed Lines</tspan></text>
-  <text class="c" transform="translate(356.5 165.43)"><tspan x="0" y="0">Dupli</tspan><tspan class="l" x="28.92" y="0">c</tspan><tspan x="35.89" y="0">a</tspan><tspan class="i" x="42.63" y="0">t</tspan><tspan x="46.44" y="0">ed Files</tspan></text>
-  <text class="c" transform="translate(28.5 96.43)"><tspan x="0" y="0">Code Smells</tspan></text>
-  <text class="c" transform="translate(192.5 96.43)"><tspan x="0" y="0">Secu</tspan><tspan class="l" x="28.65" y="0">r</tspan><tspan x="33.28" y="0">i</tspan><tspan class="j" x="36.19" y="0">t</tspan><tspan x="40.35" y="0">y Ho</tspan><tspan class="i" x="66.58" y="0">t</tspan><tspan x="70.39" y="0">spo</tspan><tspan class="i" x="91.27" y="0">t</tspan><tspan x="95.07" y="0">s</tspan></text>
-  <text class="c" transform="translate(356.5 96.43)"><tspan x="0" y="0">Compl</tspan><tspan class="g" x="36.73" y="0">e</tspan><tspan x="43.45" y="0">xi</tspan><tspan class="j" x="52.91" y="0">t</tspan><tspan x="57.07" y="0">y</tspan></text>
-  <text class="b" transform="translate(28.5 52.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(356.5 52.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(356.5 121.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(192.5 121.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(28.5 121.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(28.5 190.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(192.5 190.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <text class="b" transform="translate(356.5 190.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
-  <g class="f">
-    <g>
-      <line class="e" x1="177.56" y1="14.98" x2="177.56" y2="64.98"/>
-      <line class="e" x1="177.56" y1="83.98" x2="177.56" y2="133.98"/>
-      <line class="e" x1="177.56" y1="152.98" x2="177.56" y2="202.98"/>
-    </g>
-    <g>
-      <line class="e" x1="14.56" y1="14.98" x2="14.56" y2="64.98"/>
-      <line class="e" x1="14.56" y1="83.98" x2="14.56" y2="133.98"/>
-      <line class="e" x1="14.56" y1="152.98" x2="14.56" y2="202.98"/>
-    </g>
-    <g>
-      <line class="e" x1="341.56" y1="14.98" x2="341.56" y2="64.98"/>
-      <line class="e" x1="341.56" y1="83.98" x2="341.56" y2="133.98"/>
-      <line class="e" x1="341.56" y1="152.98" x2="341.56" y2="202.98"/>
-    </g>
-    <line class="d" x1="13.15" y1="74.48" x2="488.15" y2="74.48"/>
-    <line class="d" x1="13.15" y1="143.48" x2="488.15" y2="143.48"/>
+  <text class="b" transform="translate(169.5 37.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(5.5 37.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(333.5 37.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(333.5 106.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(169.5 106.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(5.5 106.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(5.5 175.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(169.5 175.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <text class="b" transform="translate(333.5 175.8)"><tspan class="bb" x="0" y="0">XX</tspan><tspan class="bd" x="21.18" y="0">X</tspan><tspan class="e" x="31.4" y="0">.</tspan><tspan class="bb" x="35.89" y="0">XX</tspan><tspan class="ag" x="57.07" y="0">X</tspan><tspan x="67.04" y="0">%</tspan></text>
+  <g class="p">
+    <line class="n" x1="152.56" x2="152.56" y2="50"/>
+    <line class="n" x1="152.56" y1="69" x2="152.56" y2="119"/>
+    <line class="n" x1="152.56" y1="138" x2="152.56" y2="188"/>
   </g>
+  <g class="p">
+    <line class="n" x1="316.56" x2="316.56" y2="50"/>
+    <line class="n" x1="316.56" y1="69" x2="316.56" y2="119"/>
+    <line class="n" x1="316.56" y1="138" x2="316.56" y2="188"/>
+  </g>
+  <g class="p">
+    <line class="o" y1="59.5" x2="450" y2="59.5"/>
+    <line class="o" y1="127.77" x2="450" y2="127.77"/>
+  </g>
+  <text class="c" transform="translate(5.5 12.35)"><tspan class="i" x="0" y="0">Q</tspan><tspan class="ac" x="8.28" y="0">u</tspan><tspan class="u" x="14.85" y="0">al</tspan><tspan class="bj" x="24.12" y="0">i</tspan><tspan class="ba" x="27.09" y="0">t</tspan><tspan x="31.26" y="0">y </tspan><tspan class="z" x="39.9" y="0">G</tspan><tspan class="au" x="48.02" y="0">a</tspan><tspan class="r" x="54.52" y="0">t</tspan><tspan x="58.23" y="0">e </tspan><tspan class="bc" x="67.56" y="0">S</tspan><tspan class="y" x="75.03" y="0">t</tspan><tspan class="au" x="78.9" y="0">a</tspan><tspan class="aj" x="85.4" y="0">t</tspan><tspan class="z" x="89.24" y="0">u</tspan><tspan x="95.79" y="0">s</tspan></text>
+  <text class="c" transform="translate(169.5 12.35)"><tspan class="bg" x="0" y="0">C</tspan><tspan class="q" x="7.88" y="0">o</tspan><tspan class="t" x="14.51" y="0">v</tspan><tspan class="bh" x="20.09" y="0">e</tspan><tspan x="26.51" y="0">r</tspan><tspan class="x" x="30.57" y="0">a</tspan><tspan class="e" x="37.03" y="0">g</tspan><tspan x="43.77" y="0">e</tspan></text>
+  <text class="c" transform="translate(333.5 12.35)"><tspan class="m" x="0" y="0">L</tspan><tspan class="ap" x="6.47" y="0">i</tspan><tspan class="av" x="9.34" y="0">n</tspan><tspan class="ab" x="15.95" y="0">e</tspan><tspan x="22.26" y="0">s </tspan><tspan class="s" x="31.42" y="0">o</tspan><tspan x="38.07" y="0">f </tspan><tspan class="bf" x="45.21" y="0">C</tspan><tspan class="ao" x="53.09" y="0">od</tspan><tspan x="66.67" y="0">e</tspan></text>
+  <text class="c" transform="translate(5.5 81.35)"><tspan class="bg" x="0" y="0">C</tspan><tspan class="an" x="7.88" y="0">od</tspan><tspan x="21.47" y="0">e </tspan><tspan class="bk" x="30.8" y="0">S</tspan><tspan class="ay" x="38.05" y="0">m</tspan><tspan class="j" x="48.56" y="0">e</tspan><tspan class="ai" x="54.94" y="0">ll</tspan><tspan x="60.58" y="0">s</tspan></text>
+  <text class="c" transform="translate(169.5 81.35)"><tspan class="bl" x="0" y="0">S</tspan><tspan class="bj" x="7.22" y="0">e</tspan><tspan class="g" x="13.63" y="0">c</tspan><tspan x="19.95" y="0">u</tspan><tspan class="ao" x="26.56" y="0">r</tspan><tspan class="bi" x="30.61" y="0">i</tspan><tspan class="az" x="33.57" y="0">t</tspan><tspan x="37.74" y="0">y </tspan><tspan class="ax" x="46.39" y="0">H</tspan><tspan class="ad" x="54.94" y="0">o</tspan><tspan class="w" x="61.73" y="0">t</tspan><tspan class="am" x="65.59" y="0">s</tspan><tspan class="f" x="71.76" y="0">p</tspan><tspan class="ad" x="78.51" y="0">o</tspan><tspan class="w" x="85.3" y="0">t</tspan><tspan x="89.15" y="0">s</tspan></text>
+  <text class="c" transform="translate(333.5 81.35)"><tspan class="bg" x="0" y="0">C</tspan><tspan x="7.88" y="0">om</tspan><tspan class="ak" x="25.24" y="0">p</tspan><tspan class="as" x="31.95" y="0">l</tspan><tspan class="af" x="34.84" y="0">e</tspan><tspan class="y" x="41.07" y="0">x</tspan><tspan class="bj" x="46.96" y="0">i</tspan><tspan class="ba" x="49.92" y="0">t</tspan><tspan x="54.09" y="0">y</tspan></text>
+  <text class="c" transform="translate(5.5 150.35)"><tspan class="bg" x="0" y="0">C</tspan><tspan class="an" x="7.88" y="0">o</tspan><tspan class="l" x="14.71" y="0">g</tspan><tspan class="v" x="21.45" y="0">n</tspan><tspan class="bj" x="28.01" y="0">i</tspan><tspan class="ae" x="30.97" y="0">t</tspan><tspan class="al" x="34.76" y="0">i</tspan><tspan class="t" x="37.65" y="0">v</tspan><tspan x="43.23" y="0">e </tspan><tspan class="bf" x="52.56" y="0">C</tspan><tspan x="60.44" y="0">om</tspan><tspan class="at" x="77.8" y="0">p</tspan><tspan class="as" x="84.51" y="0">l</tspan><tspan class="af" x="87.4" y="0">e</tspan><tspan class="y" x="93.62" y="0">x</tspan><tspan class="bj" x="99.52" y="0">i</tspan><tspan class="ba" x="102.48" y="0">t</tspan><tspan x="106.65" y="0">y</tspan></text>
+  <text class="c" transform="translate(169.5 150.35)"><tspan class="h" x="0" y="0">D</tspan><tspan x="7.9" y="0">u</tspan><tspan class="at" x="14.51" y="0">p</tspan><tspan class="aj" x="21.23" y="0">l</tspan><tspan class="z" x="24.05" y="0">i</tspan><tspan class="d" x="26.91" y="0">c</tspan><tspan class="aq" x="33.2" y="0">a</tspan><tspan class="r" x="39.71" y="0">t</tspan><tspan class="be" x="43.42" y="0">e</tspan><tspan x="49.84" y="0">d </tspan><tspan class="m" x="59.58" y="0">L</tspan><tspan class="ap" x="66.04" y="0">i</tspan><tspan class="aw" x="68.92" y="0">n</tspan><tspan class="aa" x="75.53" y="0">e</tspan><tspan x="81.84" y="0">s</tspan></text>
+  <text class="c" transform="translate(333.5 150.35)"><tspan class="h" x="0" y="0">D</tspan><tspan x="7.9" y="0">u</tspan><tspan class="at" x="14.51" y="0">p</tspan><tspan class="aj" x="21.23" y="0">l</tspan><tspan class="z" x="24.05" y="0">i</tspan><tspan class="d" x="26.91" y="0">c</tspan><tspan class="aq" x="33.2" y="0">a</tspan><tspan class="r" x="39.71" y="0">t</tspan><tspan class="be" x="43.42" y="0">e</tspan><tspan x="49.84" y="0">d </tspan><tspan class="k" x="59.58" y="0">F</tspan><tspan class="ah" x="66.23" y="0">i</tspan><tspan class="ar" x="69.06" y="0">l</tspan><tspan class="aa" x="71.94" y="0">e</tspan><tspan x="78.25" y="0">s</tspan></text>
 </svg>
