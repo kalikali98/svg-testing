@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 215">
+  <defs>
+    <style>
+      .b {
+        font-family: Inter-SemiBold, Inter;
+        font-size: 16px;
+        font-variation-settings: 'opsz' 14, 'wght' 600;
+        font-weight: 600;
+      }
+
+      .b, .c {
+        isolation: isolate;
+      }
+
+      .d {
+        stroke-width: .51px;
+      }
+
+      .d, .e {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .e {
+        stroke-width: .5px;
+      }
+
+      .f {
+        opacity: .35;
+      }
+
+      .c {
+        font-family: Inter-Regular, Inter;
+        font-size: 12px;
+        font-variation-settings: 'opsz' 14, 'wght' 400;
+      }
+
+      .g {
+        letter-spacing: -.02em;
+      }
+
+      .h {
+        letter-spacing: -.02em;
+      }
+
+      .i {
+        letter-spacing: 0em;
+      }
+
+      .j {
+        letter-spacing: .02em;
+      }
+
+      .k {
+        letter-spacing: 0em;
+      }
+
+      .l {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="c" transform="translate(28.5 27.43)"><tspan x="0" y="0">Quali</tspan><tspan class="j" x="28.82" y="0">t</tspan><tspan x="32.98" y="0">y Ga</tspan><tspan class="i" x="58.79" y="0">t</tspan><tspan x="62.6" y="0">e S</tspan><tspan class="k" x="80.67" y="0">t</tspan><tspan x="84.66" y="0">atus</tspan></text>
+  <text class="c" transform="translate(192.5 27.43)"><tspan x="0" y="0">C</tspan><tspan class="h" x="8.77" y="0">ov</tspan><tspan x="22.24" y="0">erage</tspan></text>
+  <text class="b" transform="translate(192.5 52.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="c" transform="translate(356.5 27.43)"><tspan x="0" y="0">Lines of Code</tspan></text>
+  <text class="c" transform="translate(28.5 165.43)"><tspan x="0" y="0">Cogniti</tspan><tspan class="h" x="40.15" y="0">v</tspan><tspan x="46.66" y="0">e Compl</tspan><tspan class="g" x="93.76" y="0">e</tspan><tspan x="100.48" y="0">xi</tspan><tspan class="j" x="109.94" y="0">t</tspan><tspan x="114.1" y="0">y</tspan></text>
+  <text class="c" transform="translate(192.5 165.43)"><tspan x="0" y="0">Dupli</tspan><tspan class="l" x="28.92" y="0">c</tspan><tspan x="35.89" y="0">a</tspan><tspan class="i" x="42.63" y="0">t</tspan><tspan x="46.44" y="0">ed Lines</tspan></text>
+  <text class="c" transform="translate(356.5 165.43)"><tspan x="0" y="0">Dupli</tspan><tspan class="l" x="28.92" y="0">c</tspan><tspan x="35.89" y="0">a</tspan><tspan class="i" x="42.63" y="0">t</tspan><tspan x="46.44" y="0">ed Files</tspan></text>
+  <text class="c" transform="translate(28.5 96.43)"><tspan x="0" y="0">Code Smells</tspan></text>
+  <text class="c" transform="translate(192.5 96.43)"><tspan x="0" y="0">Secu</tspan><tspan class="l" x="28.65" y="0">r</tspan><tspan x="33.28" y="0">i</tspan><tspan class="j" x="36.19" y="0">t</tspan><tspan x="40.35" y="0">y Ho</tspan><tspan class="i" x="66.58" y="0">t</tspan><tspan x="70.39" y="0">spo</tspan><tspan class="i" x="91.27" y="0">t</tspan><tspan x="95.07" y="0">s</tspan></text>
+  <text class="c" transform="translate(356.5 96.43)"><tspan x="0" y="0">Compl</tspan><tspan class="g" x="36.73" y="0">e</tspan><tspan x="43.45" y="0">xi</tspan><tspan class="j" x="52.91" y="0">t</tspan><tspan x="57.07" y="0">y</tspan></text>
+  <text class="b" transform="translate(28.5 52.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(356.5 52.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(356.5 121.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(192.5 121.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(28.5 121.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(28.5 190.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(192.5 190.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <text class="b" transform="translate(356.5 190.78)"><tspan x="0" y="0">XXX.XXX%</tspan></text>
+  <g class="f">
+    <g>
+      <line class="e" x1="177.56" y1="14.98" x2="177.56" y2="64.98"/>
+      <line class="e" x1="177.56" y1="83.98" x2="177.56" y2="133.98"/>
+      <line class="e" x1="177.56" y1="152.98" x2="177.56" y2="202.98"/>
+    </g>
+    <g>
+      <line class="e" x1="14.56" y1="14.98" x2="14.56" y2="64.98"/>
+      <line class="e" x1="14.56" y1="83.98" x2="14.56" y2="133.98"/>
+      <line class="e" x1="14.56" y1="152.98" x2="14.56" y2="202.98"/>
+    </g>
+    <g>
+      <line class="e" x1="341.56" y1="14.98" x2="341.56" y2="64.98"/>
+      <line class="e" x1="341.56" y1="83.98" x2="341.56" y2="133.98"/>
+      <line class="e" x1="341.56" y1="152.98" x2="341.56" y2="202.98"/>
+    </g>
+    <line class="d" x1="13.15" y1="74.48" x2="488.15" y2="74.48"/>
+    <line class="d" x1="13.15" y1="143.48" x2="488.15" y2="143.48"/>
+  </g>
+</svg>
