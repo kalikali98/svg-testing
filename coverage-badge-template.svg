@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 725 150">
+  <defs>
+    <style>
+      .b {
+        font-family: ArialMT, Arial;
+        font-size: 12px;
+      }
+
+      .c {
+        stroke-width: .51px;
+      }
+
+      .c, .d {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .d {
+        stroke-width: .5px;
+      }
+
+      .e {
+        opacity: .3;
+      }
+
+      .f {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 16px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g class="e">
+    <line class="c" x1="10" y1="74.48" x2="710" y2="74.48"/>
+    <line class="d" x1="144.56" y1="14.98" x2="144.56" y2="64.98"/>
+    <line class="d" x1="144.56" y1="83.98" x2="144.56" y2="133.98"/>
+    <line class="d" x1="288.56" y1="15.14" x2="288.56" y2="65.14"/>
+    <line class="d" x1="288.56" y1="84.14" x2="288.56" y2="134.14"/>
+    <line class="d" x1="432.56" y1="15.31" x2="432.56" y2="65.31"/>
+    <line class="d" x1="432.56" y1="85.31" x2="432.56" y2="135.31"/>
+    <line class="d" x1="576.56" y1="15.31" x2="576.56" y2="65.31"/>
+    <line class="d" x1="576.56" y1="85.31" x2="576.56" y2="135.31"/>
+  </g>
+  <text transform="translate(15.28 27.2)"><tspan class="b"><tspan x="0" y="0">Quality Gate Status</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(159.5 27.2)"><tspan class="b"><tspan x="0" y="0">Coverage</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(303.5 27.2)"><tspan class="b"><tspan x="0" y="0">Lines of Code</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(447.5 27.2)"><tspan class="b"><tspan x="0" y="0">Code Smells</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(591.5 27.2)"><tspan class="b"><tspan x="0" y="0">Security Hotspots</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(15.28 96.2)"><tspan class="b"><tspan x="0" y="0">Complexity</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(159.5 96.2)"><tspan class="b"><tspan x="0" y="0">Cognitive Complexity</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(303.5 96.2)"><tspan class="b"><tspan x="0" y="0">Duplicated Lines</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+  <text transform="translate(447.5 96.2)"><tspan class="b"><tspan x="0" y="0">Duplicated Files</tspan></tspan><tspan class="f"><tspan x="0" y="24">XXX.XXX%</tspan></tspan></text>
+</svg>
